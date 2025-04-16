@@ -1,4 +1,4 @@
-# self-pluto 🪐
+# self-meteorite 🪐
 
 ## A lightweight, powerful, and stylish Discord selfbot client built with Node.js.
 
